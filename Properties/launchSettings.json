@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "gangBot.net": {
+    "GangBot.net": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",
