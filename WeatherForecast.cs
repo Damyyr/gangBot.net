@@ -1,6 +1,6 @@
 using System;
 
-namespace gangBot.net
+namespace GangBot.net
 {
     public class WeatherForecast
     {
